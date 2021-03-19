@@ -2,7 +2,8 @@
   "name": "react-pckg-template",
   "version": "1.0.0",
   "description": "Starter for packaging React components",
-  "main": "index.js",
+  "main": "./components/Components.js",
+  "private": "false",
   "scripts": {
     "webpack": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
