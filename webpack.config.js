@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve("components"),
     filename: "Components.js",
-    libraryTarget: "commonjs2",
+    clean: true,
   },
   module: {
     rules: [
