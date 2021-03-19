@@ -1,2 +1,7 @@
+# fichiers d'entrée
 /input
+
+# fichiers de configuration éventuels
 webpack.config.js
+*.babelrc
+*.eslintrc.js

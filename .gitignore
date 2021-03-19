@@ -1,2 +1,8 @@
+# node_modules
 /node_modules
+
+# fichiers d'entrée
 /input
+
+# fichiers d'archive éventuels
+*.tgz
